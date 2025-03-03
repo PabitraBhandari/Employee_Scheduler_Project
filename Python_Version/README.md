@@ -38,13 +38,6 @@ This will launch the GUI where you can:
 
 ---
 
-## 📸 Screenshots
-### **GUI Interface:**
-![GUI Interface](screenshots/gui_schedule.png)
-
-
----
-
 ## 🔹 Features Implemented
 ✅ **GUI-based employee entry**  
 ✅ **Shift preferences selection using dropdowns**  
