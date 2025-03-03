@@ -29,7 +29,7 @@ pip install tk
 ## 🚀 Running the Application
 Navigate to the project folder and run:
 ```bash
-python3 shift_scheduler.py
+python3 EmployeeScheduler.py
 ```
 This will launch the GUI where you can:
 - **Enter employee names and preferred shifts**
