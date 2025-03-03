@@ -19,14 +19,14 @@ This project has been implemented in two different programming languages:
 - Employees can select shifts via dropdowns.
 - The system dynamically schedules shifts and resolves conflicts.
 - Users can **export or print** the final schedule.
-- 📂 [Python README](python_version/README.md)
+- 📂 [Python README](Python_Version/README.md)
 
 ### **2️⃣ Java Version (Terminal-based)**
 - Developed using **Java** for command-line execution.
 - Employees input their shift preferences via text.
 - The system automatically assigns shifts.
 - Output is displayed in a structured format in the terminal.
-- 📂 [Java README](java_version/README.md)
+- 📂 [Java README](Java_Version/README.md)
 
 ---
 
